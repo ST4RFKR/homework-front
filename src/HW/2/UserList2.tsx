@@ -22,7 +22,6 @@ type UserList2PropsType = {
 
 
 export const UserList2 = (props: UserList2PropsType) => {
-	console.log(props)
 	return (
 		<div id={'hw02-users'}>
 			<h2>User List:</h2>
